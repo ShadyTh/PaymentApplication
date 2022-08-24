@@ -5,14 +5,6 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PaymentApplication", "PaymentApplication\PaymentApplication.vcxproj", "{A7B9AFE7-4DA5-4CAD-B3AB-50D25C23EE0C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{3EA4C8D7-15B3-4B81-9F35-9462A97A79C8}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Card", "Card", "{60DCCD6A-0B70-4563-9C37-89EAF8AEB1BE}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Terminal", "Terminal", "{C95C9E1E-0934-4FF2-88D3-12FFD5A913EC}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{57EDDD85-2796-4E02-BC65-0CFF9F091E25}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

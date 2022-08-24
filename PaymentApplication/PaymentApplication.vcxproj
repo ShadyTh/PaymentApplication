@@ -135,6 +135,7 @@
   <ItemGroup>
     <ClInclude Include="app.h" />
     <ClInclude Include="card.h" />
+    <ClInclude Include="common_typedefs.h" />
     <ClInclude Include="server.h" />
     <ClInclude Include="terminal.h" />
   </ItemGroup>
