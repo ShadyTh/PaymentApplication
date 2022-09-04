@@ -41,9 +41,9 @@
     <ClInclude Include="terminal.h">
       <Filter>Terminal</Filter>
     </ClInclude>
+    <ClInclude Include="common_typedefs.h" />
     <ClInclude Include="server.h">
       <Filter>Server</Filter>
     </ClInclude>
-    <ClInclude Include="common_typedefs.h" />
   </ItemGroup>
 </Project>

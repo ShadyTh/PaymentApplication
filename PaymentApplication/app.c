@@ -7,10 +7,10 @@
 int main()
 {
 	EN_cardError_t x;
-	ST_cardData_t y;
-	x = getCardHolderName(&y);
-	printf("%d\n", x);
-	printf("%s\n", y.cardHolderName);
+	ST_terminalData_t y;
+	x = getTransactionDate(&y);
+	printf("%d\n", x);	// 1 is WRONG_DATE, 0 is TERMINAL_OK
+	printf("%s\n", y.transactionDate);
 
 	return 0;
 }
